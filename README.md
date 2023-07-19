@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @killazaold
+- 👋 Hi, I’m @KN-PN
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning javascript, react, etc.
+- 🌱 I’m currently learning javascript, react, flutter, nodejs.
 - 📫 and this I'm learning to use github.
 
 <!---
